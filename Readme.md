@@ -4,10 +4,7 @@ Hello there! 👋
 
 Welcome to my profile. I'm glad you're here!
 
- 
-
-## Visitor Count
- 
+ _____________________________________________
 
 
 Feel free to explore, and don't hesitate to contribute or give feedback!
