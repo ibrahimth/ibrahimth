@@ -7,7 +7,7 @@ Welcome to my profile. I'm glad you're here!
  
 
 ## Visitor Count
-![:ibrahim](https://count.getloli.com/get/@:ibrahimth?theme=moebooru-h)
+![Visitor Count](https://img.shields.io/badge/dynamic/json?color=success&label=Visitors&query=value&url=https%3A%2F%2Fapi.example.com%2Fvisitor-count)
 
 
 Feel free to explore, and don't hesitate to contribute or give feedback!
